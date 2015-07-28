@@ -4,6 +4,7 @@
 
 ### Presentations
 Software Architecture vs. Code  => https://www.youtube.com/watch?v=GAFZcYlO5S0
+Scalable Distributed Design => https://www.youtube.com/watch?v=E9GFA-YkzFY
 
 ## Functional programming
 List of resources that may help while learning functional programming
