@@ -1,5 +1,10 @@
 # Programming Resources
 
+## System Architecture
+
+### Presentations
+Software Architecture vs. Code  => https://www.youtube.com/watch?v=GAFZcYlO5S0
+
 ## Functional programming
 List of resources that may help while learning functional programming
 
