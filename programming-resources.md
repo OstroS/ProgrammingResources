@@ -25,5 +25,7 @@ List of resources that may help while learning functional programming
 ### Haskell
 * Real World Haskell => http://book.realworldhaskell.org/read/
 
+## Soft Skills
+* PeopleWare (book summary) => http://javatroopers.com/Peopleware.html
 
 
