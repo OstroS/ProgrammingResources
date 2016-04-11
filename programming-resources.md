@@ -27,5 +27,6 @@ List of resources that may help while learning functional programming
 
 ## Soft Skills
 * PeopleWare (book summary) => http://javatroopers.com/Peopleware.html
+* Software Leadership Series => http://joeduffyblog.com/2013/02/17/software-leadership-series/
 
 
