@@ -7,6 +7,7 @@
 * What Is Software Design? => http://www.developerdotstar.com/mag/articles/reeves_design.html
 * Are you a Software Architect => http://www.infoq.com/articles/brown-are-you-a-software-architect
 * The Art of Visualising Software Architecture => https://leanpub.com/visualising-software-architecture/read
+* The Thelve-Factor => http://12factor.net/
 
 ### Presentations
 * Software Architecture vs. Code  => https://www.youtube.com/watch?v=GAFZcYlO5S0
